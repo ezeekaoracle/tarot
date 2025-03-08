@@ -1,0 +1,394 @@
+{
+    "cards": [
+        {
+            "name": "The Fool",
+            "image": "images/the_fool.jpg",
+            "meaning": "A new beginning, spontaneity, and adventure."
+        },
+        {
+            "name": "The Magician",
+            "image": "images/the_magician.jpg",
+            "meaning": "Manifestation, power, and resourcefulness."
+        },
+        {
+            "name": "The High Priestess",
+            "image": "images/the_high_priestess.jpg",
+            "meaning": "Intuition, secrets, and wisdom."
+        },
+        {
+            "name": "The Empress",
+            "image": "images/the_empress.jpg",
+            "meaning": "Fertility, nurturing, and abundance."
+        },
+        {
+            "name": "The Emperor",
+            "image": "images/the_emperor.jpg",
+            "meaning": "Authority, stability, and structure."
+        },
+        {
+            "name": "The Hierophant",
+            "image": "images/the_hierophant.jpg",
+            "meaning": "Tradition, spiritual wisdom, and guidance."
+        },
+        {
+            "name": "The Lovers",
+            "image": "images/the_lovers.jpg",
+            "meaning": "Love, relationships, and choices."
+        },
+        {
+            "name": "The Chariot",
+            "image": "images/the_chariot.jpg",
+            "meaning": "Willpower, determination, and victory."
+        },
+        {
+            "name": "Strength",
+            "image": "images/strength.jpg",
+            "meaning": "Inner strength, courage, and compassion."
+        },
+        {
+            "name": "The Hermit",
+            "image": "images/the_hermit.jpg",
+            "meaning": "Introspection, solitude, and wisdom."
+        },
+        {
+            "name": "Wheel of Fortune",
+            "image": "images/wheel_of_fortune.jpg",
+            "meaning": "Fate, cycles, and turning points."
+        },
+        {
+            "name": "Justice",
+            "image": "images/justice.jpg",
+            "meaning": "Fairness, truth, and law."
+        },
+        {
+            "name": "The Hanged Man",
+            "image": "images/the_hanged_man.jpg",
+            "meaning": "Pause, surrender, and letting go."
+        },
+        {
+            "name": "Death",
+            "image": "images/death.jpg",
+            "meaning": "Transformation, endings, and new beginnings."
+        },
+        {
+            "name": "Temperance",
+            "image": "images/temperance.jpg",
+            "meaning": "Balance, patience, and moderation."
+        },
+        {
+            "name": "The Devil",
+            "image": "images/the_devil.jpg",
+            "meaning": "Addiction, materialism, and bondage."
+        },
+        {
+            "name": "The Tower",
+            "image": "images/the_tower.jpg",
+            "meaning": "Sudden change, upheaval, and chaos."
+        },
+        {
+            "name": "The Star",
+            "image": "images/the_star.jpg",
+            "meaning": "Hope, inspiration, and spirituality."
+        },
+        {
+            "name": "The Moon",
+            "image": "images/the_moon.jpg",
+            "meaning": "Illusions, intuition, and the subconscious."
+        },
+        {
+            "name": "The Sun",
+            "image": "images/the_sun.jpg",
+            "meaning": "Joy, success, and vitality."
+        },
+        {
+            "name": "Judgment",
+            "image": "images/judgment.jpg",
+            "meaning": "Reflection, reckoning, and awakening."
+        },
+        {
+            "name": "The World",
+            "image": "images/the_world.jpg",
+            "meaning": "Completion, fulfillment, and wholeness."
+        },
+        {
+            "name": "Ace of Wands",
+            "image": "images/ace_of_wands.jpg",
+            "meaning": "A meaning for Ace of Wands."
+        },
+        {
+            "name": "Two of Wands",
+            "image": "images/two_of_wands.jpg",
+            "meaning": "A meaning for Two of Wands."
+        },
+        {
+            "name": "Three of Wands",
+            "image": "images/three_of_wands.jpg",
+            "meaning": "A meaning for Three of Wands."
+        },
+        {
+            "name": "Four of Wands",
+            "image": "images/four_of_wands.jpg",
+            "meaning": "A meaning for Four of Wands."
+        },
+        {
+            "name": "Five of Wands",
+            "image": "images/five_of_wands.jpg",
+            "meaning": "A meaning for Five of Wands."
+        },
+        {
+            "name": "Six of Wands",
+            "image": "images/six_of_wands.jpg",
+            "meaning": "A meaning for Six of Wands."
+        },
+        {
+            "name": "Seven of Wands",
+            "image": "images/seven_of_wands.jpg",
+            "meaning": "A meaning for Seven of Wands."
+        },
+        {
+            "name": "Eight of Wands",
+            "image": "images/eight_of_wands.jpg",
+            "meaning": "A meaning for Eight of Wands."
+        },
+        {
+            "name": "Nine of Wands",
+            "image": "images/nine_of_wands.jpg",
+            "meaning": "A meaning for Nine of Wands."
+        },
+        {
+            "name": "Ten of Wands",
+            "image": "images/ten_of_wands.jpg",
+            "meaning": "A meaning for Ten of Wands."
+        },
+        {
+            "name": "Page of Wands",
+            "image": "images/page_of_wands.jpg",
+            "meaning": "A meaning for Page of Wands."
+        },
+        {
+            "name": "Knight of Wands",
+            "image": "images/knight_of_wands.jpg",
+            "meaning": "A meaning for Knight of Wands."
+        },
+        {
+            "name": "Queen of Wands",
+            "image": "images/queen_of_wands.jpg",
+            "meaning": "A meaning for Queen of Wands."
+        },
+        {
+            "name": "King of Wands",
+            "image": "images/king_of_wands.jpg",
+            "meaning": "A meaning for King of Wands."
+        },
+        {
+            "name": "Ace of Cups",
+            "image": "images/ace_of_cups.jpg",
+            "meaning": "A meaning for Ace of Cups."
+        },
+        {
+            "name": "Two of Cups",
+            "image": "images/two_of_cups.jpg",
+            "meaning": "A meaning for Two of Cups."
+        },
+        {
+            "name": "Three of Cups",
+            "image": "images/three_of_cups.jpg",
+            "meaning": "A meaning for Three of Cups."
+        },
+        {
+            "name": "Four of Cups",
+            "image": "images/four_of_cups.jpg",
+            "meaning": "A meaning for Four of Cups."
+        },
+        {
+            "name": "Five of Cups",
+            "image": "images/five_of_cups.jpg",
+            "meaning": "A meaning for Five of Cups."
+        },
+        {
+            "name": "Six of Cups",
+            "image": "images/six_of_cups.jpg",
+            "meaning": "A meaning for Six of Cups."
+        },
+        {
+            "name": "Seven of Cups",
+            "image": "images/seven_of_cups.jpg",
+            "meaning": "A meaning for Seven of Cups."
+        },
+        {
+            "name": "Eight of Cups",
+            "image": "images/eight_of_cups.jpg",
+            "meaning": "A meaning for Eight of Cups."
+        },
+        {
+            "name": "Nine of Cups",
+            "image": "images/nine_of_cups.jpg",
+            "meaning": "A meaning for Nine of Cups."
+        },
+        {
+            "name": "Ten of Cups",
+            "image": "images/ten_of_cups.jpg",
+            "meaning": "A meaning for Ten of Cups."
+        },
+        {
+            "name": "Page of Cups",
+            "image": "images/page_of_cups.jpg",
+            "meaning": "A meaning for Page of Cups."
+        },
+        {
+            "name": "Knight of Cups",
+            "image": "images/knight_of_cups.jpg",
+            "meaning": "A meaning for Knight of Cups."
+        },
+        {
+            "name": "Queen of Cups",
+            "image": "images/queen_of_cups.jpg",
+            "meaning": "A meaning for Queen of Cups."
+        },
+        {
+            "name": "King of Cups",
+            "image": "images/king_of_cups.jpg",
+            "meaning": "A meaning for King of Cups."
+        },
+        {
+            "name": "Ace of Swords",
+            "image": "images/ace_of_swords.jpg",
+            "meaning": "A meaning for Ace of Swords."
+        },
+        {
+            "name": "Two of Swords",
+            "image": "images/two_of_swords.jpg",
+            "meaning": "A meaning for Two of Swords."
+        },
+        {
+            "name": "Three of Swords",
+            "image": "images/three_of_swords.jpg",
+            "meaning": "A meaning for Three of Swords."
+        },
+        {
+            "name": "Four of Swords",
+            "image": "images/four_of_swords.jpg",
+            "meaning": "A meaning for Four of Swords."
+        },
+        {
+            "name": "Five of Swords",
+            "image": "images/five_of_swords.jpg",
+            "meaning": "A meaning for Five of Swords."
+        },
+        {
+            "name": "Six of Swords",
+            "image": "images/six_of_swords.jpg",
+            "meaning": "A meaning for Six of Swords."
+        },
+        {
+            "name": "Seven of Swords",
+            "image": "images/seven_of_swords.jpg",
+            "meaning": "A meaning for Seven of Swords."
+        },
+        {
+            "name": "Eight of Swords",
+            "image": "images/eight_of_swords.jpg",
+            "meaning": "A meaning for Eight of Swords."
+        },
+        {
+            "name": "Nine of Swords",
+            "image": "images/nine_of_swords.jpg",
+            "meaning": "A meaning for Nine of Swords."
+        },
+        {
+            "name": "Ten of Swords",
+            "image": "images/ten_of_swords.jpg",
+            "meaning": "A meaning for Ten of Swords."
+        },
+        {
+            "name": "Page of Swords",
+            "image": "images/page_of_swords.jpg",
+            "meaning": "A meaning for Page of Swords."
+        },
+        {
+            "name": "Knight of Swords",
+            "image": "images/knight_of_swords.jpg",
+            "meaning": "A meaning for Knight of Swords."
+        },
+        {
+            "name": "Queen of Swords",
+            "image": "images/queen_of_swords.jpg",
+            "meaning": "A meaning for Queen of Swords."
+        },
+        {
+            "name": "King of Swords",
+            "image": "images/king_of_swords.jpg",
+            "meaning": "A meaning for King of Swords."
+        },
+        {
+            "name": "Ace of Pentacles",
+            "image": "images/ace_of_pentacles.jpg",
+            "meaning": "A meaning for Ace of Pentacles."
+        },
+        {
+            "name": "Two of Pentacles",
+            "image": "images/two_of_pentacles.jpg",
+            "meaning": "A meaning for Two of Pentacles."
+        },
+        {
+            "name": "Three of Pentacles",
+            "image": "images/three_of_pentacles.jpg",
+            "meaning": "A meaning for Three of Pentacles."
+        },
+        {
+            "name": "Four of Pentacles",
+            "image": "images/four_of_pentacles.jpg",
+            "meaning": "A meaning for Four of Pentacles."
+        },
+        {
+            "name": "Five of Pentacles",
+            "image": "images/five_of_pentacles.jpg",
+            "meaning": "A meaning for Five of Pentacles."
+        },
+        {
+            "name": "Six of Pentacles",
+            "image": "images/six_of_pentacles.jpg",
+            "meaning": "A meaning for Six of Pentacles."
+        },
+        {
+            "name": "Seven of Pentacles",
+            "image": "images/seven_of_pentacles.jpg",
+            "meaning": "A meaning for Seven of Pentacles."
+        },
+        {
+            "name": "Eight of Pentacles",
+            "image": "images/eight_of_pentacles.jpg",
+            "meaning": "A meaning for Eight of Pentacles."
+        },
+        {
+            "name": "Nine of Pentacles",
+            "image": "images/nine_of_pentacles.jpg",
+            "meaning": "A meaning for Nine of Pentacles."
+        },
+        {
+            "name": "Ten of Pentacles",
+            "image": "images/ten_of_pentacles.jpg",
+            "meaning": "A meaning for Ten of Pentacles."
+        },
+        {
+            "name": "Page of Pentacles",
+            "image": "images/page_of_pentacles.jpg",
+            "meaning": "A meaning for Page of Pentacles."
+        },
+        {
+            "name": "Knight of Pentacles",
+            "image": "images/knight_of_pentacles.jpg",
+            "meaning": "A meaning for Knight of Pentacles."
+        },
+        {
+            "name": "Queen of Pentacles",
+            "image": "images/queen_of_pentacles.jpg",
+            "meaning": "A meaning for Queen of Pentacles."
+        },
+        {
+            "name": "King of Pentacles",
+            "image": "images/king_of_pentacles.jpg",
+            "meaning": "A meaning for King of Pentacles."
+        }
+    ]
+}
